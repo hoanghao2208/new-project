@@ -1,0 +1,29 @@
+@import 'scss/global';
+
+.common-input--wrapper {
+    @include font-12;
+    @include fontRegular;
+    color: $color--text1;
+
+    input,
+    textarea,
+    .ant-input-affix-wrapper,
+    .ant-radio-group {
+        padding: 8px 12px;
+        border-radius: 8px;
+    }
+
+    .ant-select-selector {
+        border-radius: 8px;
+    }
+
+    .ant-select,
+    .ant-picker {
+        border-radius: 8px;
+        width: 100%;
+    }
+
+    .checkbox-label {
+        @include fontRegular;
+    }
+}

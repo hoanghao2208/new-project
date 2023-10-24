@@ -1,0 +1,16 @@
+{
+    "common_text": {
+        "language": "Ngôn ngữ"
+    },
+    "header": {
+        "dashboard": "Bảng điều khiển",
+        "patiens": "Bệnh Nhân",
+        "reports": "Báo Cáo",
+        "query": "Truy Vấn"
+    },
+    "report": {
+        "visit": "Báo Cáo Khám Chữa Bệnh",
+        "paitents": "Báo Cáo Bệnh Nhân",
+        "medication": "Báo Cáo Thuốc"
+    }
+}
